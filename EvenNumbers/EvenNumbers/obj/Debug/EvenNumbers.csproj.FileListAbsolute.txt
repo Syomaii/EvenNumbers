@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.exe.config
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.pdb
